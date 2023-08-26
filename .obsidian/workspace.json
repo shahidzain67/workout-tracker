@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "88356fcea80c844b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb43c1098d8eb86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd27cc53e69491fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workouts/Arms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91c1d52924e4edaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "789b1752a5b6050a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f4cb3f46e0f57a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fefb764c37477ea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a6a90f9a8ce4ef8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fa3b3c482add9aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7816b4553269795e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2078f73e17807ed9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workouts/Arms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87b9b7ae22769ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workouts/Arms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "770fc6623691b427",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b52412d72fd9922a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workouts/Arms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "fc534d45529448c9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d6d9a5b28f5d6ed0",
+        "type": "window",
+        "children": [
+          {
+            "id": "9fa66e559f4110ec",
+            "type": "split",
+            "children": [
+              {
+                "id": "9b8b41e15e5eaefa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ddc0d0e6719beebe",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Body Parts/Abs.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "6af659e6a9263b57",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "231540beb0a5caac",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Body Parts/Shoulders.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dd27cc53e69491fd",
+  "lastOpenFiles": [
+    "Workouts/Climbing Training and Cardio.md",
+    "Exercises/Hangboarding.md",
+    "Workouts/Shoulder & Abs.md",
+    "Body Parts/Shoulders.md",
+    "Body Parts/Abs.md",
+    "Workouts/Chest & Back.md",
+    "Body Parts/Back.md",
+    "Workouts/Legs.md",
+    "Body Parts/Chest.md",
+    "Body Parts/Thighs.md",
+    "Body Parts/Glutes.md",
+    "Body Parts/Calves.md",
+    "Images/Pasted image 20230826150127.png",
+    "Exercises/Calf Press.md",
+    "Exercises/Calf Raises.md",
+    "Images/Pasted image 20230826150114.png",
+    "Exercises/Bicep Curl.md",
+    "Body Parts/Triceps.md",
+    "Workouts/Arms.md",
+    "2023-08-26.md",
+    "Body Parts/Forearms.md",
+    "Body Parts/Biceps.md",
+    "Images/Pasted image 20230826144732.png",
+    "Sessions/Untitled.md",
+    "Exercises/Wrist Curls.md",
+    "Images/Pasted image 20230826144834.png",
+    "Exercises/Forearm Roller.md",
+    "Images/Pasted image 20230826144820.png",
+    "Images/Pasted image 20230826144802.png",
+    "Exercises/Block grip.md",
+    "Exercises/Tricep Dips.md",
+    "Exercises/V-sit.md",
+    "Images/Pasted image 20230826143118.png",
+    "Images/Pasted image 20230826143056.png",
+    "Images/Pasted image 20230826143039.png",
+    "Images/Pasted image 20230826143030.png",
+    "Images",
+    "Exercises",
+    "Sessions",
+    "Workouts",
+    "Body Parts"
+  ]
+}
